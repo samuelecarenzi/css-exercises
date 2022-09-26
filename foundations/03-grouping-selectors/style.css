@@ -1,0 +1,13 @@
+.first-button {
+    background-color: rgb(0,0,0);
+    color: rgb(255,255,255);
+}
+
+.second-button {
+    background-color: yellow;
+}
+
+.click-me {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
